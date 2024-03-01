@@ -1,4 +1,4 @@
-*** ### Objetivo a aula de hoje: 29/02/2024 ***
+***### Objetivo a aula de hoje: 29/02/2024***
 
 ---
 
