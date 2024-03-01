@@ -1,6 +1,6 @@
 Aula 01 29.02.2024
 Microsoft usa Disco Dinamico -> Linux LVM 
-
+---
 Objetivo a aula de hoje: 29/02/2024
 
 Conceitos Básicos de Segurança Windows, GNU/Linux, Redes de Computadores e Usuários Finais:
