@@ -1,4 +1,7 @@
 Aula 01 29.02.2024
+
+---
+
 Microsoft usa Disco Dinamico -> Linux LVM 
 
 ---
