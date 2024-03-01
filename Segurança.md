@@ -26,4 +26,6 @@ Fascículos: https://cartilha.cert.br/fasciculos/
 		WinXP
 		GNU/Linux Mint 21.3
 
+---
+
 #04_ Pesquisar e Ativar o Bitlocker no Windows 10
