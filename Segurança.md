@@ -1,4 +1,4 @@
-***### Objetivo a aula de hoje: 29/02/2024***
+### Objetivo a aula de hoje: 29/02/2024
 
 ---
 
@@ -14,7 +14,11 @@ https://www.cert.br/
 
 Fascículos: https://cartilha.cert.br/fasciculos/
 
+---
+
 #02_ Utilização do Github para documentação de todas as aulas:
+
+---
 
 #03_ Topologia para estudo de caso:
 		Windows 10 Pro 1511		Bitlocker
