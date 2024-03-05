@@ -1,10 +1,6 @@
-Atualização do Linux por linhas de comando
+Atualizar linux por linha de comando
 
 ---
 
-sudo apt update
-sudo apt upgrade
-sudo apt full-upgrade
-sudo apt dist-upgrade
-sudo apt autoremove
-sudo apt autoclean
+Sudo apt update
+Sudo apt upgrade
