@@ -27,3 +27,39 @@ Fascículos: https://cartilha.cert.br/fasciculos/#redes
 	Linux..: Configurações de Rede
 		Cabeada
 			Engrenagem
+			
+	Comandos Básicos de Redes Windows e Linux
+	
+	Windows					Linux
+	ipconfig				ifconfig
+	ipconfig /all			route -n
+							resolvectl
+	ipconfig /release		sudo ifconfig enp0s3 down
+	ipconfig /renew			sudo ifconfig enp0s3 up
+	ipconfig /displaydns	resolvectl statistics
+	ipconfig /flushdns		resolvectl flush-caches
+							resolvectl reset-statistics
+	route print				route -n
+	ping 8.8.8.8			ping 8.8.8.8
+	tracert 8.8.8.8			sudo apt update
+							sudo apt install traceroute
+							traceroute 8.8.8.8
+	nslookup 8.8.8.8		nslookup 8.8.8.8
+
+#04_ Firewall Linux e Windows
+
+#Windows
+Iniciar, Painel de Controle, Firewall do Windows
+	Avançado, ICMP, Configurações
+		Permitir solicitação de ECHO de Entrada
+
+#Linux
+Negar ICMP...: sudo sysctl net.ipv4.icmp_echo_ignore_all=1
+Permitir ICMP: sudo sysctl net.ipv4.icmp_echo_ignore_all=0
+
+#05_ Conceito Básico de Rede Workgroup
+
+Workgroup:
+Domínio..:
+
+#06_ Testando as conexões
