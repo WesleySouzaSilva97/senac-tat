@@ -17,12 +17,12 @@ https://www.cert.br/
 Fascículos: https://cartilha.cert.br/fasciculos/#redes
 			https://cartilha.cert.br/fasciculos/#computadores
 
-#02_ Entendendo as diferenças das Placas de Rede do VirtualBOX
+	#02_ Entendendo as diferenças das Placas de Rede do VirtualBOX
 	#A_ NAT.....: https://www.virtualbox.org/manual/ch06.html#network_nat
 	#B_ BRIDGE..: https://www.virtualbox.org/manual/ch06.html#network_bridged
 	#C_ INTERNA.: https://www.virtualbox.org/manual/ch06.html#network_internal
 
-#03_ Endereçamento IPv4 Linux e Windows
+	#03_ Endereçamento IPv4 Linux e Windows
 	Windows: Conexões de Rede
 		Conexão Local
 			Propriedades
@@ -53,7 +53,7 @@ Fascículos: https://cartilha.cert.br/fasciculos/#redes
 	nslookup 8.8.8.8		nslookup 8.8.8.8
 	hostname				hostname
 
-#04_ Firewall Linux e Windows
+	#04_ Firewall Linux e Windows
 
 #Windows
 Iniciar, Painel de Controle, Firewall do Windows
@@ -64,9 +64,9 @@ Iniciar, Painel de Controle, Firewall do Windows
 Negar ICMP...: sudo sysctl net.ipv4.icmp_echo_ignore_all=1
 Permitir ICMP: sudo sysctl net.ipv4.icmp_echo_ignore_all=0
 
-#05_ Conceito Básico de Rede Workgroup
+	#05_ Conceito Básico de Rede Workgroup
 
 Workgroup:
 Domínio..:
 
-#06_ Testando as conexões
+	#06_ Testando as conexões
