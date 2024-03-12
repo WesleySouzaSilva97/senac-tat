@@ -22,7 +22,8 @@ Fascículos: https://cartilha.cert.br/fasciculos/#redes
 	#B_ BRIDGE..: https://www.virtualbox.org/manual/ch06.html#network_bridged
 	#C_ INTERNA.: https://www.virtualbox.org/manual/ch06.html#network_internal
 
-	#03_ Endereçamento IPv4 Linux e Windows
+
+#03_ Endereçamento IPv4 Linux e Windows
 	Windows: Conexões de Rede
 		Conexão Local
 			Propriedades
