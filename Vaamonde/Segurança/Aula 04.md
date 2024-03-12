@@ -54,8 +54,10 @@ Fascículos: https://cartilha.cert.br/fasciculos/#redes
 					traceroute 8.8.8.8
 	nslookup 8.8.8.8		nslookup 8.8.8.8
 	hostname			hostname
-
-	#04_ Firewall Linux e Windows
+	sempre que o ping tiver acima de 100/150ms pode estar ocorrendo alguma perda
+	
+ 
+ #04_ Firewall Linux e Windows
 
 #Windows
 Iniciar, Painel de Controle, Firewall do Windows
