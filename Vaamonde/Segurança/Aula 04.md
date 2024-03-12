@@ -23,7 +23,7 @@ Fascículos: https://cartilha.cert.br/fasciculos/#redes
 	#C_ INTERNA.: https://www.virtualbox.org/manual/ch06.html#network_internal
 
 
-#03_ Endereçamento IPv4 Linux e Windows
+	#03_ Endereçamento IPv4 Linux e Windows
 	Windows: Conexões de Rede
 		Conexão Local
 			Propriedades
@@ -37,22 +37,22 @@ Fascículos: https://cartilha.cert.br/fasciculos/#redes
 	
 	Comandos Básicos de Redes Windows e Linux
 	
-	Windows					Linux
-	ipconfig				ifconfig
+	Windows				Linux
+	ipconfig			ifconfig
 	ipconfig /all			route -n
-							resolvectl
+					resolvectl
 	ipconfig /release		sudo ifconfig enp0s3 down
 	ipconfig /renew			sudo ifconfig enp0s3 up
-	ipconfig /displaydns	resolvectl statistics
+	ipconfig /displaydns		resolvectl statistics
 	ipconfig /flushdns		resolvectl flush-caches
-							resolvectl reset-statistics
-	route print				route -n
+					resolvectl reset-statistics
+	route print			route -n
 	ping 8.8.8.8			ping 8.8.8.8
 	tracert 8.8.8.8			sudo apt update
-							sudo apt install traceroute
-							traceroute 8.8.8.8
+					sudo apt install traceroute
+					traceroute 8.8.8.8
 	nslookup 8.8.8.8		nslookup 8.8.8.8
-	hostname				hostname
+	hostname			hostname
 
 	#04_ Firewall Linux e Windows
 
