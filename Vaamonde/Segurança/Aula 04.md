@@ -26,11 +26,11 @@ Fascículos: https://cartilha.cert.br/fasciculos/#redes
 	#03_ Endereçamento IPv4 Linux e Windows
 	Windows: Conexões de Rede
 		Conexão Local
-			Propriedades
+		Propriedades
 	
 	Linux..: Configurações de Rede
 		Cabeada
-			Engrenagem
+		Engrenagem
 	
 	Nomes de computadores iguais ou Endereços
 	IP.
