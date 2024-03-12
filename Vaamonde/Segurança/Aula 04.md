@@ -51,7 +51,8 @@ Conceitos Básicos de Segurança Windows, GNU/Linux, Redes de Computadores e Usu
 	tracert 8.8.8.8			sudo apt update
 					sudo apt install traceroute
 					traceroute 8.8.8.8
-	nslookup 8.8.8.8		nslookup 8.8.8.8
+	nslookup 8.8.8.8
+ 	nslookup google.com		nslookup 8.8.8.8
 	hostname			hostname
 	sempre que o ping tiver acima de 100/150ms pode estar ocorrendo alguma perda
 	
