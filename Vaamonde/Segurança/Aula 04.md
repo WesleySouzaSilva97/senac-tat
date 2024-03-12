@@ -59,6 +59,8 @@ Conceitos Básicos de Segurança Windows, GNU/Linux, Redes de Computadores e Usu
  
  #04_ Firewall Linux e Windows
 
+	PINGAR WINDOWS ----> 	LINUX MINT
+	LINUX MINT ----> 	PINGAR WINDOWS 
 	#Windows
 	Iniciar, Painel de Controle, Firewall do Windows
 	Avançado, ICMP, Configurações
