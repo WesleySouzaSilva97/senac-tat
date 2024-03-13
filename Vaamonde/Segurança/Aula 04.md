@@ -16,6 +16,7 @@ Conceitos Básicos de Segurança Windows, GNU/Linux, Redes de Computadores e Usu
 	https://cartilha.cert.br/fasciculos/#computadores
 
 #02_ Entendendo as diferenças das Placas de Rede do VirtualBOX
+
 	#A_ NAT.....: https://www.virtualbox.org/manual/ch06.html#network_nat
 	#B_ BRIDGE..: https://www.virtualbox.org/manual/ch06.html#network_bridged
 	#C_ INTERNA.: https://www.virtualbox.org/manual/ch06.html#network_internal
