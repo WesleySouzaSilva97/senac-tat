@@ -110,7 +110,7 @@ Verificar o nome do computador
 
   	Windows					Linux
 
-	hostname			hostname
+	hostname				hostname
  
  #04_ Firewall Linux e Windows
 
