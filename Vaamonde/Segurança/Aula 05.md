@@ -22,7 +22,8 @@ Conceitos Básicos de Segurança Windows, GNU/Linux, Redes de Computadores e Usu
     https://cartilha.cert.br/fasciculos/#computadores
 
     https://cartilha.cert.br/fasciculos/#redes
-
+	RDP (MS-RDP Microsoft) : XP
+ 
     Teamviewer: (Bloqueado na Rede do SENAC)
     AnyDesk: https://anydesk.com/pt
     LogMeIn: (Bloqueado na Rede do SENAC)
