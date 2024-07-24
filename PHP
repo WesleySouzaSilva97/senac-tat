@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+	<html lang="pt-br">
+		<head>
+			<title>Teste da Linguagem PHP</title>
+			<meta charset="utf-8">
+		</head>
+		<body>
+			<!-- Início do script PHP: ?php -->
+			<?php 
+				// Função ECHO: Imprimir uma ou mais strings na saída padrão
+				echo '<h1>Página PHP do Wesley</h1>';
+				echo '<h2>Acesse minhas redes sociais</h2>';
+				echo 'LinkedIn: https://www.linkedin.com/in/wesley-de-souza-da-silva-6a8085278/<br>';
+				echo 'Instagram: https://www.instagram.com/weesley_ss/?hl=pt-br/<br>';
+				echo '<a href="http://192.168.200.221/wesley/wesley.html">Clique aqui HTML</a><br>'; 
+				echo '<img src="https://i.pinimg.com/originals/c3/fd/c1/c3fdc176655c8ebf5f3309ec79806dee.jpg">'
+				echo '<img src="https://crmpiperun.com/wp-content/uploads/2019/01/frases-motivacionais-59-Se-nao-puder-destacar-se-pelo-talento-venca-pelo-esforco_Easy-Resize.com_.jpg">'
+				echo '<a href="https://www.linkedin.com/in/wesley-de-souza-da-silva-6a8085278/"></a><br>
+			// Fechamento do Script PHP
+			?>
+		</body>
+	</html>
