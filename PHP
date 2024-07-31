@@ -45,3 +45,44 @@
                         ?>
                 </body>
         </html>
+
+
+
+
+
+
+HTML
+
+
+!-- Início do código HTML: declaração do tipo de arquivo que será enviado para a navegador -->
+<!DOCTYPE html>
+        <!-- Tag HTML: Define a raiz de um documento HTML -->
+        <html lang="pt-br">
+                <!-- Tag HEAD: Define um cabeçalho para um documento ou seção -->
+                <head>
+                        <!-- Tag TITLE: Define um título para o documento -->
+                        <title>Exercício 1</title>
+                        <!-- Tag META: Define metadados sobre um documento HTML -->
+                        <meta charset="utf-8">
+                <!-- Fechamento da Tag: HEAD -->
+                </head>
+                <!-- Tag BODY: Define o corpo do documento -->
+                <body>
+                        <!-- Tag H1: Define títulos HTML -->
+                        <!-- Tag BR: Define uma única quebra de linha -->
+                        <h1>Exercício 1 </h1>
+                        <h2> Segue minhas redes sociais <h2>
+                        <!-- Tag: A Define um hiperlink -->
+                        LinkedIn: <a href="https://www.linkedin.com/in/wesley-de-souza-da-silva-6a8085278/">Wesley Souza</a><br>
+                        Instagram: <a href="https://www.instagram.com/weesley_ss/?hl=pt-br">Wesley Souza</a><br>
+                        <h1>Exercício 2 </h1>
+                        <h4>Link para página PHP </h4>
+                        <a href="http://192.168.200.221/wesley/wesley.php">Clique aqui PHP</a><br>
+                        <img src="https://cdn.pensador.com/img/imagens/pe/ns/pensador_frases_estudos_2.jpg?auto_optimize=low&width=655<img src=">
+                        <img src="https://i.pinimg.com/564x/60/b6/0f/60b60ffd676117e024535692ce3b2778.jpg">
+
+
+                <!-- Fechamento da Tag: BODY -->
+                </body>
+        <!-- Fechamento da Tag: HTML -->
+        </html>
