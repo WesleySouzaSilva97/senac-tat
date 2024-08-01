@@ -86,3 +86,53 @@ HTML
                 </body>
         <!-- Fechamento da Tag: HTML -->
         </html>
+
+
+
+
+
+
+
+CÓDIGO CORRETO
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <title>Teste da Linguagem PHP</title>
+    <meta charset="utf-8">
+</head>
+<body>
+    <!-- Início do script PHP -->
+    <?php 
+        // Função ECHO: Imprimir uma ou mais strings na saída padrão
+        echo '<h1>Página PHP do Wesley</h1>';
+        echo '<h2>Acesse minhas redes sociais</h2>';
+        echo 'LinkedIn: <a href="https://www.linkedin.com/in/wesley-de-souza-da-silva-6a8085278/">https://www.linkedin.com/in/wesley-de-souza-da-silva-6a8085278/</a><br>';
+        echo 'Instagram: <a href="https://www.instagram.com/weesley_ss/?hl=pt-br">https://www.instagram.com/weesley_ss/?hl=pt-br</a><br>';
+        echo '<a href="http://192.168.200.221/wesley/wesley.html">Clique aqui HTML</a><br>'; 
+        echo '<img src="https://i.pinimg.com/originals/c3/fd/c1/c3fdc176655c8ebf5f3309ec79806dee.jpg" alt="Imagem 1"><br>';
+        echo '<img src="https://crmpiperun.com/wp-content/uploads/2019/01/frases-motivacionais-59-Se-nao-puder-destacar-se-pelo-talento-venca-pelo-esforco_Easy-Resize.com_.jpg" alt="Imagem 2"><br>';
+        echo '<a href="https://www.linkedin.com/in/wesley-de-souza-da-silva-6a8085278/">Visite meu LinkedIn</a><br>';
+    ?>
+    <!-- Fim do script PHP -->
+</body>
+</html>
+
+
+
+
+
+HTML CÓDIGO PARA COMPLEMENTAR 
+
+<h4>Link para página PHP</h4>
+    <a href="http://192.168.200.221/wesley/wesley.php">Clique aqui PHP</a><br>
+    
+    <!-- Correção do erro na tag img -->
+    <img src="https://cdn.pensador.com/img/imagens/pe/ns/pensador_frases_estudos_2.jpg?auto_optimize=low&width=655" alt="Frase de estudo">
+    
+    <img src="https://i.pinimg.com/564x/60/b6/0f/60b60ffd676117e024535692ce3b2778.jpg" alt="Imagem Pin">
+
+    <!-- Fechamento da Tag: BODY -->
+</body>
+<!-- Fechamento da Tag: HTML -->
+</html>
