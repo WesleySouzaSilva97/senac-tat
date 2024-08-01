@@ -136,3 +136,9 @@ HTML CÓDIGO PARA COMPLEMENTAR
 </body>
 <!-- Fechamento da Tag: HTML -->
 </html>
+
+
+
+
+  #CÓDIGO PARA HIPERLINK HTML
+    a <a href="wesley.php" target="_blank"> clique aqui </a>
